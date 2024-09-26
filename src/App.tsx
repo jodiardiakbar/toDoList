@@ -3,7 +3,8 @@ import { FcCancel } from "react-icons/fc";
 function App() {
   return (
     <div className="text-center">
-      Chores ToDo List <br />
+      Chores ToDo List : Deployed
+      <br />
       <input type="checkbox" />
       Create Guest Experience mobile check-in
       <button>
